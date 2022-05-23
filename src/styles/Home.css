@@ -1,0 +1,16 @@
+ul{
+    list-style-type: none;
+}
+
+.links{
+    text-decoration: none;
+    color: inherit;
+}
+
+.links:hover{
+    color:blue;
+}
+
+li{
+    padding: 12px;
+}
